@@ -46,13 +46,13 @@ enum class Philosopher {
     abstract fun signal(): Philosopher
 }
 
-//Seneca the Younger (c. 4 BC – AD 65), fully Lucius Annaeus Seneca and also known simply as Seneca (/ˈsɛnɪkə/), 
+//1. Seneca the Younger (c. 4 BC – AD 65), fully Lucius Annaeus Seneca and also known simply as Seneca (/ˈsɛnɪkə/), 
 // was a Roman Stoic philosopher, statesman, dramatist, and—in one work—satirist of the Silver Age of Latin literature.
 
-//Seneca clearly sees himself as a Stoic. He commonly refers to the Stoic school as 'ours' and 
+//2. Seneca clearly sees himself as a Stoic. He commonly refers to the Stoic school as 'ours' and 
 // does much to defend the Stoics against certain Peripatetic and Epicurean attacks. 
 
-//The philosophy asserts that virtue (such as wisdom) is happiness and judgment should 
+//3. The philosophy asserts that virtue (such as wisdom) is happiness and judgment should 
 // be based on behavior, rather than words. 
 
 // create an class "Command" that can be used as a function (provide an "invoke()" function)
